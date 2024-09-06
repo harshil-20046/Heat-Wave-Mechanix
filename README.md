@@ -13,5 +13,5 @@ Main Logic Meaning-
 - With the help of LCD display temperature and humidity will be displayed.
 - As esp32 is used remote monitoring and controlling is possible.
 --------------------
-Prototype video link(Youtube)- 
+Prototype video link(Youtube)- https://youtu.be/5nkeaPN5dII
 --------------------
